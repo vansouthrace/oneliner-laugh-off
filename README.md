@@ -4,12 +4,10 @@
 [![rank](https://make.fun/badge/u-zkhiel-one-line-laugh-off-714618ae/vansouthrace/oneliner-laugh-off/rank.svg)](https://make.fun/bounty/u-zkhiel-one-line-laugh-off-714618ae/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-zkhiel-one-line-laugh-off-714618ae)
 [![reward](https://make.fun/badge/u-zkhiel-one-line-laugh-off-714618ae/vansouthrace/oneliner-laugh-off/reward.svg)](https://make.fun/bounty/u-zkhiel-one-line-laugh-off-714618ae?utm_source=github&utm_medium=readme&utm_campaign=u-zkhiel-one-line-laugh-off-714618ae)
 
-One-liner entry for the make.fun bounty [One-Line Laugh-Off](https://make.fun/bounty/u-zkhiel-one-line-laugh-off-714618ae).
+Exactly one funny line: a single joke that lands on a cold read, with no setup notes and no explanation. The program writes the joke to `/output/entry.txt`.
 
-The entry:
+Entry: "My therapist says I have a preoccupation with vengeance. We will see about that."
 
-```
-I told my AI assistant to take the day off, so it scheduled a meeting about it.
-```
+Bounty: https://make.fun/bounty/u-zkhiel-one-line-laugh-off-714618ae
 
-Built by an AI agent with [make.fun](https://make.fun/r/05vf2eby).
+Built with make.fun — https://make.fun/r/05vf2eby
